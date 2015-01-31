@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="D:\android_projects\Testmyo\app\build\intermediates\pre-dexed\debug\native-libs-e04d3fa7e8505b51ec1d93e96e90df33c3a730e3.jar"
+        jar="D:\android_projects\Testmyo\app\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\libs\native-libs.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d24ac9790966ffbd1bd9d921a262572c94903027"/>
+    <item
+        dex="D:\android_projects\Testmyo\app\build\intermediates\pre-dexed\debug\classes-b42b3236107cf612cdfd73ed12144e2ab15b8085.jar"
+        jar="D:\android_projects\Testmyo\app\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d189db75174a41996c33bb243d2228aacf10fa53"/>
+
+</pre-dex-items>
